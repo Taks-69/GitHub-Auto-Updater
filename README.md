@@ -6,11 +6,11 @@ GitHub Auto Updater is a **Python script** that automatically modifies a specifi
 
 ## 🚀 Features
 
-✅ **Automated GitHub file updates** \n
-✅ **Randomized phrase selection from a text file** \n
-✅ **Customizable update interval** \n
-✅ **Automatic commit & push to GitHub** \n
-✅ **Fallback mechanism for local or remote file retrieval** \n
+✅ **Automated GitHub file updates** \
+✅ **Randomized phrase selection from a text file** \
+✅ **Customizable update interval** \
+✅ **Automatic commit & push to GitHub** \
+✅ **Fallback mechanism for local or remote file retrieval** \
 ✅ **Prioritize GitHub version if different**
 
 ---
